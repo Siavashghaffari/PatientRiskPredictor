@@ -1,0 +1,25 @@
+
+--------------------------------------------------------------------------------
+MODEL SUMMARY: Decision Tree
+--------------------------------------------------------------------------------
+
+PERFORMANCE METRICS:
+  • Accuracy: 47.83%
+  • Balanced Accuracy: 47.93%
+  • F1 Score: 49.11%
+  • Precision (PPV): 46.75%
+  • Recall (Sensitivity): 51.71%
+  • Specificity: 44.16%
+
+CLINICAL INTERPRETATION:
+  • Positive Predictive Value: 46.75%
+  • Negative Predictive Value: 49.10%
+  • False Positive Rate: 55.84%
+  • False Negative Rate: 48.29%
+
+CONFUSION MATRIX:
+                    Predicted: No Disease    Predicted: Disease
+  Actual: No Disease           136                 172
+  Actual: Disease              141                 151
+
+--------------------------------------------------------------------------------
