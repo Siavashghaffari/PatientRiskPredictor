@@ -466,9 +466,9 @@ All visualizations are saved to `output/figures/` directory.
 - Causal inference methods to identify modifiable risk factors
 - Multi-task learning to predict multiple outcomes simultaneously
 
-## Contributing
+## Authors
 
-This project is open for educational and research purposes. Suggestions for improvements are welcome!
+This work was developed by **Siavash Ghaffari**. For any questions, feedback, or additional information, please feel free to reach out. Your input is highly valued and will help improve and refine this pipeline further.
 
 ## Citation
 
@@ -477,6 +477,7 @@ If you use this code or methodology in your research, please cite:
 ```
 Disease Status Prediction for Hospital Patients
 Machine Learning Analysis of Clinical and Laboratory Data
+Author: Siavash Ghaffari
 Toronto Hospital Dataset (2,000 patients)
 ```
 
@@ -486,19 +487,10 @@ Toronto Hospital Dataset (2,000 patients)
 - Built with scikit-learn, pandas, and the Python data science ecosystem
 - Inspired by clinical decision support system research
 
-## License
-
-This project is for **research and educational purposes only**.
+## Disclaimer
 
 **Important**: Clinical decisions should **never** be made solely based on these predictions without proper medical consultation and validation. This model has not been clinically validated and is intended for demonstration and learning purposes.
 
-## Contact & Support
-
-For questions, issues, or suggestions:
-- Open an issue in the repository
-- Review the comprehensive documentation in each notebook
-- Check the `output/` directory for detailed results
-
 ---
 
-**Made with ❤️ for healthcare data science**
+**Developed by Siavash Ghaffari for healthcare data science**
